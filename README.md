@@ -2,12 +2,23 @@ Textual maze generation
 ========================
 
 Java application that generates mazes using a variant of Prim's algorithm.
+
+
 The maze is guaranteed to have a solution, which I found is often non-trivial.
 
+
 Outputs a nicely formatted maze 
+
+
  # is a wall
+ 
+ 
  O is a room
- - | hallways
+ 
+ 
+ \- | hallways
+ 
+ 
  S E start and end
 
  
